@@ -1,4 +1,4 @@
-# s21_matrix+
+# Matrix_lib
 
 Implementation of the s21_matrix_oop.h library.
 
